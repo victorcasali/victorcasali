@@ -2,19 +2,20 @@
 
 💻 Iniciando minha jornada no mundo da programação  
 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
-⚙️ Explorando C#, HTML, CSS e Git  
+⚙️ Explorando Python, C#, HTML, CSS e Git  
 🎮 Fã de tecnologia, games e boas histórias
 
 ---
 
 ### 🚀 Sobre mim:
-Atualmente tô focado em aprender C#, reforçar lógica de programação e entender como as coisas funcionam por trás dos apps e sistemas que a gente usa todo dia. Sempre que sobra um tempo, tô quebrando a cabeça com uns projetos pessoais ou jogando alguma coisa 🎮.
+Atualmente tô focado em aprender Python e C#, reforçar lógica de programação e entender como as coisas funcionam por trás dos apps e sistemas que a gente usa todo dia. Sempre que sobra um tempo, tô quebrando a cabeça com uns projetos pessoais ou jogando alguma coisa 🎮.
 
 Se quiser trocar ideia, colaborar ou só dar um salve, é só chega junto! ✌️
 
 ---
 
 ### 📚 Estudando:
+- Python (lógica, orientação a objetos e uns projetinhos pra treinar)
 - C# (tentando não brigar muito com as chaves `{}` e os pontos-e-vírgulas `;`)
 - HTML e CSS (aprendendo a dar cara bonita pras coisas)
 - Git e GitHub (pra não perder nada no meio do caminho)
@@ -27,6 +28,7 @@ Se quiser trocar ideia, colaborar ou só dar um salve, é só chega junto! ✌�
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorcasali&layout=compact&langs_count=7&theme=dark"/>
  </div>
 <div style="display: inline_block"><br>
+<img align="center" alt="Vitu-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 <img align="center" alt="Vitu-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 <img align="center" alt="Vitu-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img align="center" alt="Vitu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -38,4 +40,4 @@ Se quiser trocar ideia, colaborar ou só dar um salve, é só chega junto! ✌�
 Ah, e se quiser me acompanhar nessa jornada meio doida de dev iniciante, só seguir aí 🤙  
 
 🖥️ [github.com/victorcasali](https://github.com/victorcasali)
-📷 [Instagram](https://www.instagram.com/vitu.casali/) 
+📷 [Instagram](https://www.instagram.com/vitu.casali/)
